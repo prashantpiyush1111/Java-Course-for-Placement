@@ -7,8 +7,8 @@ public class Recursion3 {
         return;
 
     }
-     Sum+=i;
-     printSum(i+1,n,Sum);
+    Sum+=i;
+    printSum(i+1,n,Sum);
      }
      public static void main(String[] args) {
     printSum(1,6,0);
