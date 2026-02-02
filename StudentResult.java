@@ -35,6 +35,5 @@ public class StudentResult {
             System.out.println(name + " is Fail");
         }
 
-        sc.close();
     }
 }
