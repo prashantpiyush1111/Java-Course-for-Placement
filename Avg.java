@@ -15,7 +15,7 @@ public class Avg {
             int C = sc.nextInt();
 
             int sum = A + B + C;
-            double avg = sum / 3.0;
+            double avg = sum / 3;
 
             System.out.println("Average of A, B and C is: " + avg);
         }
