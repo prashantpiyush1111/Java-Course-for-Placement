@@ -3,16 +3,16 @@ import java.util.Scanner;
 public class Bill {
     public static void main(String[] args) {
 
-        try (Scanner sc = new Scanner(System.in)) {
+        try (Scanner bl = new Scanner(System.in)) {
 
             System.out.print("Enter cost of Pencil: ");
-            float pencil = sc.nextFloat();
+            float pencil = bl.nextFloat();
 
             System.out.print("Enter cost of Pen: ");
-            float pen = sc.nextFloat();
+            float pen = bl.nextFloat();
 
             System.out.print("Enter cost of Eraser: ");
-            float eraser = sc.nextFloat();
+            float eraser = bl.nextFloat();
 
             float total = pencil + pen + eraser;
 
