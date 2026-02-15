@@ -33,6 +33,7 @@ public class StudentResult {
             System.out.println(name + " got Grade C");
         } else {
             System.out.println(name + " is Fail");
+            sc.close();
         }
 
     }
