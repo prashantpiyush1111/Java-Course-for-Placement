@@ -1,16 +1,13 @@
-public class Recursion {
-
-    public static void printNumb(int n) {
-        if (n == 0) {
+public class Recursion{
+    public static void printNumber(int n) {
+        if(n==0){
             return;
         }
-
         System.out.println(n);
-        printNumb(n - 1);
+        printNumber(n-1);
     }
-
-    public static void main(String args[]) {
-        int n = 5;
-        printNumb(n);
+    public static void main(String[] args) {
+        int n =5;
+        printNumber(n);
     }
 }
