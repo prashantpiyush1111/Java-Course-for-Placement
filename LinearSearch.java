@@ -15,7 +15,7 @@ public static int LS(int number[],int key) {
         if(index==-1){
         System.out.println("NOT FOUND");
         }else{
-            System.out.println("Key is at index : "+ index);
+            System.out.println("Key is at index  : "+ index);
         }
 
     }
