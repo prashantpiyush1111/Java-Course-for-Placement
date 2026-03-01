@@ -15,7 +15,7 @@ public class Largestnumber {
 
     public static void main(String[] args) {
 
-        int number[] = {2,5,1,6,8,3,10};
+        int number[] = {2,5,1,6,8,4,10};
 
         System.out.println(GetLargest(number));
     }
