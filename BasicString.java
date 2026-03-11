@@ -5,6 +5,6 @@ public class BasicString {
 
         System.out.println(name);          // print string
         System.out.println(name.length()); // length of string
-        System.out.println(name.charAt(0)); // first character
+        System.out.println(name.charAt(0)); 
     }
 }
