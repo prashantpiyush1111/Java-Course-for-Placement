@@ -8,7 +8,7 @@ public class NumberToWords{
 
         int lastDigit= n%10;
         PrintNum(n/10);
-        System.out.print(words[lastDigit]+" ");
+        System.out.println(words[lastDigit]+" ");
     }
     public static void main(String[] args) {
         int n=123;
