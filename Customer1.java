@@ -48,7 +48,7 @@ public class Customer1{
         c.deleteCustomer();
 
         // Reverse Engineering (Product)
-        Product p = new Product(201, "Laptop");
+        Product p = new Product(211, "Laptop");
         p.addProduct();
         p.selectProduct();
     }
