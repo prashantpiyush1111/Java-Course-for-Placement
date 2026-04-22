@@ -33,7 +33,7 @@ public class DivideTwoIntegers {
     }
 
     public static void main(String[] args) {
-        int dividend = 10;
+        int dividend = 15;
         int divisor = 3;
 
         int result = divide(dividend, divisor);
