@@ -3,7 +3,7 @@ import java.util.*;
 public class CombinationSum {
 
     public static void main(String[] args) {
-        int[] candidates = {2, 3, 6, 7};
+        int[] candidates = {2, 3, 5, 7};
         int target = 7;
 
         List<List<Integer>> result = combinationSum(candidates, target);
