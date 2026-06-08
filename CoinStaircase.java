@@ -11,7 +11,7 @@ public class CoinStaircase {
 
         int n = sc.nextInt();
 
-        System.out.println(arrangeCoins(n));
+        System.out.println(arrrangeCoins(n));
 
         sc.close();
     }
