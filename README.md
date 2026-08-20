@@ -1,4 +1,4 @@
-Java-Course-for-Placement
+Java-Course-for-Placement with leetcode quest
 
 A collection of Java programs covering DSA, algorithms, and LeetCode solutions for placement preparation.
 
