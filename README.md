@@ -1,50 +1,81 @@
-Java-Course-for-Placement with leetcode quest
+# ☕ Java Course for Placement
 
-A collection of Java programs covering DSA, algorithms, and LeetCode solutions for placement preparation.
+> A Java learning and interview-preparation repository covering core programming, Data Structures and Algorithms, recursion, backtracking, networking simulations, OOP, and LeetCode practice.
 
-## 📂 Topics Covered
+## 📌 About
 
-- **Arrays & Sorting** – Bubble Sort, Insertion Sort, Quick Sort, Counting Sort, Merge Sorted Array, Spiral Matrix, Diagonal Sum, Trapping Rain Water
-- **Searching** – Binary Search, Linear Search, Search in Sorted Matrix, First & Last Position
-- **Recursion** – Factorial, Fibonacci, Tower of Hanoi, N-Queens, Maze Paths, Keypad Combinations, Subsets, Subsequences, Unique Subsequences
-- **Strings** – Palindrome, String Compression, Reverse String, Valid Anagram, Length of String, Number to Words
-- **Linked Lists** – Remove Nth Node, Swap Nodes in Pairs
-- **Bit Manipulation** – Single Number II & III, Divide Two Integers, Add Binary, Find the Difference
-- **Backtracking** – Combination Sum, N-Queens
-- **LeetCode Problems** – 19, 29, 66, 67, 88, 389, 643, 1689, and more
-- **Networking Simulations** – ARP/RARP Simulation, Stop-and-Wait ARQ Protocol
-- **OOP Concepts** – Customer/Product (Association), Student Result
+This repository documents hands-on Java practice focused on **placement preparation and problem solving**.
+
+It brings together topic-based programs and coding problems developed while strengthening Java fundamentals and algorithmic thinking.
+
+## 📚 Topics Covered
+
+| Area | Examples |
+|---|---|
+| Arrays & Sorting | Bubble Sort, Insertion Sort, Quick Sort, Counting Sort, Merge Sorted Array, Spiral Matrix, Trapping Rain Water |
+| Searching | Linear Search, Binary Search, Matrix Search, First/Last Position |
+| Recursion | Factorial, Fibonacci, Tower of Hanoi, N-Queens, Maze Paths, Subsets, Subsequences |
+| Strings | Palindrome, Compression, Reverse String, Anagram, Number to Words |
+| Linked Lists | Remove Nth Node, Swap Nodes in Pairs |
+| Bit Manipulation | Single Number, Divide Two Integers, Add Binary, Difference Problems |
+| Backtracking | Combination Sum, N-Queens, Keypad Combinations |
+| LeetCode | Problems including 19, 29, 66, 67, 88, 389, 643, 1689, and more |
+| Networking | ARP/RARP Simulation, Stop-and-Wait ARQ |
+| OOP | Association and simple object-oriented programming examples |
+
+## 🧠 What This Repository Demonstrates
+
+- Java programming fundamentals
+- Data Structures and Algorithms practice
+- Recursion and backtracking
+- Algorithm implementation and complexity awareness
+- Object-oriented programming concepts
+- Coding-interview problem solving
 
 ## 🛠️ Tech Stack
 
-- Language: Java
-- IDE: Any Java-compatible IDE (IntelliJ IDEA / VS Code / Eclipse)
-- JDK: 8+
+- **Language:** Java
+- **JDK:** 8+
+- **IDE:** IntelliJ IDEA, Eclipse, or VS Code
 
-## 🚀 How to Run
+## 🚀 Getting Started
+
+Clone the repository:
 
 ```bash
-# Clone the repo
 git clone https://github.com/prashantpiyush1111/Java-Course-for-Placement.git
-
-# Navigate to directory
 cd Java-Course-for-Placement
+```
 
-# Compile any file
+Compile a Java source file:
+
+```bash
 javac FileName.java
+```
 
-# Run
+Run the compiled class:
+
+```bash
 java FileName
 ```
 
-## 📌 Purpose
+## 🎯 Purpose
 
-This repository documents my Java learning journey — from basics to advanced DSA — focused on placement and interview preparation.
+The repository is maintained as a practical study record for:
 
-## 🤝 Contributing
+- Strengthening Java fundamentals
+- Preparing for technical interviews
+- Building DSA problem-solving skills
+- Revising common programming patterns
+- Tracking progress through hands-on implementations
 
-Feel free to open issues or PRs for improvements or additional solutions.
+## 👨‍💻 Author
+
+**Prashant Maurya**  
+Java-focused developer and B.Tech CSE student
+
+GitHub: [@prashantpiyush1111](https://github.com/prashantpiyush1111)
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+See the repository license for current usage terms.
